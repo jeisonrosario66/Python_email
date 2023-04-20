@@ -1,5 +1,10 @@
+"""
+Ciclo 1: Tienes un mensaje
+Script: Itera sobre las filas del archivo cvs, enviando un correo sencillo por cada iteracion
+"""
+
 import pandas as pd
-from smtp import send_email
+from send_mail_text import send_email
 
 df = pd.read_csv("contactos.csv")
 for column, row in df.iterrows():
