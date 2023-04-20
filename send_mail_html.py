@@ -70,5 +70,5 @@ class sendMail:
                 servidor.send_message(mensaje)
 
 # Instanciamos la clase sendMain
-send_mail = sendMail('jeisonrosario.reto3@gmail.com', os.environ['RETO3'])
+send_mail = sendMail(os.environ['RETO3USER'], os.environ['RETO3PASS'])
 send_mail.send_mail(df)
