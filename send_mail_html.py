@@ -1,13 +1,13 @@
 """
 Ciclo 2: Tienes un mensaje
 
-sendMail: Objeto creado para la resolucion de ciclo. Se compon de :
+sendMail: Objeto creado para la resolución de ciclo. Se compone de :
   def __init__(self, email, password):
-    constructor, define la informacion minima para crear dicho objeto
+    constructor, define la información mínima para crear dicho objeto
     correo y contraseña en este caso
 
   def send_mail(self, df):
-    Metodo, encargado del mecanimos de envio la plantilla html por correo
+    Método, encargado del mecanismo de envió la plantilla html por correo
 """
 
 
