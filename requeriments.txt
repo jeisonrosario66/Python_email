@@ -1,2 +1,5 @@
 panda
 reportlab
+ssl
+smtplib
+email
