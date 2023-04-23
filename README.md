@@ -45,4 +45,4 @@ La clase `PdfTools` es auxiliar, necesaria para que funcione el metodo `send_mai
 ![pdf2](https://user-images.githubusercontent.com/96961824/233812787-34b42af4-052f-4b36-a5d0-390014b30796.PNG)
 
 ## Autor
-- [@jeisonrosario66](https://https://github.com/jeisonrosario66)
+- [@jeisonrosario66](https://github.com/jeisonrosario66)
