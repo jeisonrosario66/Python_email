@@ -54,4 +54,4 @@ class PdfTools:
 #instancia
 #obj = PdfTools("1.pdf")
 #obj.create_pdf()
-#obj.create_pdf("bolas@adentro.com","sin sonia","ahora mismo perro")
+#obj.create_pdf("","","")
